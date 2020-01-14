@@ -1,0 +1,36 @@
+[submodule "DiscoveryLowLevel"]
+	path = DiscoveryLowLevel
+	url = https://github.com/dominasasa/DiscoveryLowLevel.git
+[submodule "DiscoveryGraphics"]
+	path = DiscoveryGraphics
+	url = https://github.com/dominasasa/DiscoveryGraphics.git
+[submodule "DiscoveryBalls"]
+	path = DiscoveryBalls
+	url = https://github.com/dominasasa/DiscoveryBalls.git
+[submodule "DiscoveryArduino"]
+	path = DiscoveryArduino
+	url = https://github.com/dominasasa/DiscoveryArduino.git
+[submodule "DiscoveryLinux"]
+	path = DiscoveryLinux
+	url = https://github.com/dominasasa/DiscoveryLinux.git
+[submodule "DiscoveryFrontend"]
+	path = DiscoveryFrontend
+	url = https://github.com/dominasasa/DiscoveryFrontend.git
+[submodule "DiscoveryMobile"]
+	path = DiscoveryMobile
+	url = https://github.com/dominasasa/DiscoveryMobile.git
+[submodule "DiscoveryMachineLearning"]
+	path = DiscoveryMachineLearning
+	url = https://github.com/dominasasa/DiscoveryMachineLearning.git
+[submodule "DiscoveryBigWeb"]
+	path = DiscoveryBigWeb
+	url = https://github.com/dominasasa/DiscoveryBigWeb.git
+[submodule "DiscoverySmallWeb"]
+	path = DiscoverySmallWeb
+	url = https://github.com/dominasasa/DiscoverySmallWeb.git
+[submodule "DiscoveryEsoteric"]
+	path = DiscoveryEsoteric
+	url = https://github.com/dominasasa/DiscoveryEsoteric.git
+[submodule "DiscoveryDesktop"]
+	path = DiscoveryDesktop
+	url = https://github.com/dominasasa/DiscoveryDesktop.git
